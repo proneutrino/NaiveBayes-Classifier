@@ -1,0 +1,6 @@
+Accuracy of classifier on above dataset is :0.9732650739476678
+
+Timing for training a classifier:1.027 s
+
+Timing for prediction:0.126 s
+
